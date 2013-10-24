@@ -16,9 +16,7 @@ Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/
 
 ## Downloads
 
-Version|Release date|Octopus download|Tentacle download
--------|------------|----------------|--------------------
-1.0.0.0|17 October 2012|[Download](http://google.com)|[Download](http://google.com)
+Downloads coming soon.
 
 ## Milestones
 
