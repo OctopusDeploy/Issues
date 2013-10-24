@@ -16,7 +16,10 @@ Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/
 
 ## Downloads
 
-Downloads coming soon.
+Current version: **2.0.0.568**
+
+ - [Download Octopus](https://s3-eu-west-1.amazonaws.com/octopus-downloads/2.0/Octopus.2.0.0.568.msi)
+ - [Download Tentacle](https://s3-eu-west-1.amazonaws.com/octopus-downloads/2.0/Octopus.Tentacle.2.0.0.568.msi)
 
 ## Milestones
 
