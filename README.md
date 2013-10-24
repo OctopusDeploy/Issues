@@ -13,13 +13,13 @@ While we're always open for any feedback, right now, we're primarily after feedb
 ## Downloads
 
 Version|Release date|Octopus download|Tentacle download
-----------------------------------------------------------
+-------|------------|----------------|--------------------
 1.0.0.0|17 October 2012|[Download](http://google.com)|[Download](http://google.com)
 
 ## Preview/Beta program milestones
 
 Milestone|Date|Scope
--------------------------
+---------|----|----------
 Preview 1|25 October|Private release, ~ 3-4 people
 Preview 2|~7 November|Private release, ~ 10 people
 Beta 1|~21 November|Private release, ~ 30 people
