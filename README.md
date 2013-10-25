@@ -11,6 +11,7 @@ While we're always open for any feedback, right now, we're primarily after feedb
 
  * The initial setup experience
  * Any crashes or problems you have getting things to work
+ * Whether we're going in the right direction or need to completely go back to the drawing board on some features
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
