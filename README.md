@@ -23,10 +23,4 @@ Current version: **2.0.0.568**
 
 ## Milestones
 
-Milestone|Date|Scope
----------|----|----------
-Preview 1|25 October|Private release, ~ 3-4 people
-Preview 2|~7 November|Private release, ~ 10 people
-Beta 1|~21 November|Private release, ~ 30 people
-Beta 2|~7 December|Private release, ~ 50 people
-Beta 3|~21 December|Public release
+For a rough idea of when the beta and RTW will be ready, [see the milestones tab](https://github.com/OctopusDeploy/Issues/issues/milestones).
