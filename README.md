@@ -1,4 +1,4 @@
-Octopus 2.0 preview/beta program
+Octopus 2.0 beta program
 ==================================
 
 If you're viewing this page, you have agreed to be part of the preview/beta program for Octopus Deploy 2.0. 
