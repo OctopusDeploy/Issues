@@ -20,7 +20,7 @@ Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/
  - You can't configure Octopus/Tentacle to work behind a proxy
  - There's no migration tool from 1.0
 
-
+For 1.0 users, please read [this page](https://github.com/OctopusDeploy/Issues/wiki/Migrating-from-Octopus-Deploy-1.x) for details on some of the key changes.
 
 ## Milestones
 
