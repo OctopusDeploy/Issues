@@ -14,6 +14,14 @@ Current version: **2.0.1.763**
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
+## Known issues
+
+ - The Octopus/Tentacle Manager tools are limited in functionality
+ - You can't configure Octopus/Tentacle to work behind a proxy
+ - There's no migration tool from 1.0
+
+
+
 ## Milestones
 
 For a rough idea of when the beta and RTW will be ready, [see the milestones tab](https://github.com/OctopusDeploy/Issues/issues/milestones).
