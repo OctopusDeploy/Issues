@@ -14,10 +14,10 @@ Current version: **2.0.1.763**
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
-## Known issues
+## Limitations
 
- - The Octopus/Tentacle Manager tools are limited in functionality
- - You can't configure Octopus/Tentacle to work behind a proxy
+ - There's no Octo.exe or TeamCity plugin for this version of Octopus (we're working on it)
+ - You can't currently configure Octopus/Tentacle to work behind a proxy
  - There's no migration tool from 1.0
 
 For 1.0 users, please read [this page](https://github.com/OctopusDeploy/Issues/wiki/Migrating-from-Octopus-Deploy-1.x) for details on some of the key changes.
