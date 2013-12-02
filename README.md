@@ -7,10 +7,14 @@ We've been working on the 2.0 release of Octopus Deploy for nearly 6 months, and
 
 **Do NOT install this beta release on the same server as your current Octopus Deploy 1.X production server. It should work side by side, but there's a chance things could go very wrong.**
 
-Current version: **2.0.1.763**
+Current version: **2.0.2.808**
 
- - [Download Octopus](http://download.octopusdeploy.com/octopus/Octopus.2.0.1.763.msi)
- - [Download Tentacle](http://download.octopusdeploy.com/octopus/Octopus.Tentacle.2.0.1.763.msi)
+ - [Download Octopus](http://download.octopusdeploy.com/octopus/Octopus.2.0.2.808.msi)
+ - [Download Tentacle](http://download.octopusdeploy.com/octopus/Octopus.Tentacle.2.0.2.808.msi)
+ - [Download Octo.exe](http://download.octopusdeploy.com/octopus-tools/2.0.2.808/OctopusTools.2.0.2.808.zip)
+ - [Download TeamCity](http://download.octopusdeploy.com/octopus-teamcity/2.0.2.808/Octopus.TeamCity.zip)
+
+This release fixes the following issues: [Issues closed in beta 3](https://github.com/OctopusDeploy/Issues/issues?direction=asc&labels=&milestone=8&page=1&sort=created&state=closed)
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
