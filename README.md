@@ -5,7 +5,7 @@ We've been working on the 2.0 release of Octopus Deploy for nearly 6 months, and
 
 **Do NOT install this beta release on the same server as your current Octopus Deploy 1.X production server. It should work side by side, but there's a chance things could go very wrong.**
 
-Current version: **2.0.5.933** (Octopus 2.0 Release Candidate)
+Current version: **2.0.5.933** (Octopus 2.0 Release Candidate 2)
 
  - [Download Octopus](http://download.octopusdeploy.com/octopus/Octopus.2.0.5.933.msi)
  - [Download Tentacle](http://download.octopusdeploy.com/octopus/Octopus.Tentacle.2.0.5.933.msi)
