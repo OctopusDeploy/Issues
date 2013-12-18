@@ -5,14 +5,14 @@ We've been working on the 2.0 release of Octopus Deploy for nearly 6 months, and
 
 **Do NOT install this beta release on the same server as your current Octopus Deploy 1.X production server. It should work side by side, but there's a chance things could go very wrong.**
 
-Current version: **2.0.4.920** (Octopus 2.0 Release Candidate)
+Current version: **2.0.5.933** (Octopus 2.0 Release Candidate)
 
- - [Download Octopus](http://download.octopusdeploy.com/octopus/Octopus.2.0.4.920.msi)
- - [Download Tentacle](http://download.octopusdeploy.com/octopus/Octopus.Tentacle.2.0.4.920.msi)
- - [Download Octo.exe](http://download.octopusdeploy.com/octopus-tools/2.0.4.920/OctopusTools.2.0.4.920.zip)
- - [Download TeamCity](http://download.octopusdeploy.com/octopus-teamcity/2.0.4.920/Octopus.TeamCity.zip)
+ - [Download Octopus](http://download.octopusdeploy.com/octopus/Octopus.2.0.5.933.msi)
+ - [Download Tentacle](http://download.octopusdeploy.com/octopus/Octopus.Tentacle.2.0.5.933.msi)
+ - [Download Octo.exe](http://download.octopusdeploy.com/octopus-tools/2.0.5.933/OctopusTools.2.0.5.933.zip)
+ - [Download TeamCity](http://download.octopusdeploy.com/octopus-teamcity/2.0.5.933/Octopus.TeamCity.zip)
 
-This release fixes the following issues: [Issues closed in 2.0 RC](https://github.com/OctopusDeploy/Issues/issues?direction=asc&labels=&milestone=9&page=1&sort=created&state=closed)
+This release fixes the following issues: [Issues closed in 2.0 RC](https://github.com/OctopusDeploy/Issues/issues?direction=asc&labels=&milestone=9&page=1&sort=created&state=closed) and [Issues closed in 2.0 RC 2](https://github.com/OctopusDeploy/Issues/issues?milestone=11&state=closed)
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
