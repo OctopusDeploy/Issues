@@ -14,7 +14,7 @@ Current version: **2.0.5.933** (Octopus 2.0 Release Candidate)
 
 This release fixes the following issues: [Issues closed in 2.0 RC](https://github.com/OctopusDeploy/Issues/issues?direction=asc&labels=&milestone=9&page=1&sort=created&state=closed) and [Issues closed in 2.0 RC 2](https://github.com/OctopusDeploy/Issues/issues?milestone=11&state=closed)
 
-Octopus 2.0 documentation is in progress and is about 75% complete - it can be found at: [http://docs.octopusdeploy.com/display/OD/Home](http://docs.octopusdeploy.com/display/OD/Home)
+[Octopus 2.0 documentation](http://docs.octopusdeploy.com/display/OD/Home) is in progress and is about 75% complete.
 
 Found a problem? [Report it on the issues tab](https://github.com/OctopusDeploy/Issues/issues)
 
