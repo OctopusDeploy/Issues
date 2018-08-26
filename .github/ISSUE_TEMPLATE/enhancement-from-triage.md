@@ -18,7 +18,7 @@ about: For the Octopus team to record an enhancement to existing features which 
 
 <!-- A clear and concise description of what the enhancement is. e.g. Enable Offline Drop Targets to publish the results as a deployment Artifact instead of just writing to disk. -->
 
-### Mockup
+## Mockup
 
 <!-- If applicable, add a mockup to help explain the proposed enhancement. -->
 
@@ -30,4 +30,4 @@ about: For the Octopus team to record an enhancement to existing features which 
 
 ## Links
 
-<!-- Add links to other issues, or customer reports of the same feature request. This will help us get back in touch with them when the enhancement is shipped. -->
+<!-- Add links to other issues, UserVoice suggestions, or customer reports of the same feature request. This will help us get back in touch with them when the enhancement is shipped. -->
