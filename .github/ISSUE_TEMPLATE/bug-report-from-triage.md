@@ -2,6 +2,9 @@
 name: Bug report from triage
 about: For the Octopus team to record a bug report which has gone through triage and
   we have committed to implementing a bug fix
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

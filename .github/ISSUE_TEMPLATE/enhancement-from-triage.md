@@ -2,6 +2,9 @@
 name: Enhancement from triage
 about: For the Octopus team to record an enhancement to existing features which has
   gone through triage and we have committed to implementing
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

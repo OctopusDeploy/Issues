@@ -1,6 +1,9 @@
 ---
 name: New feature
 about: For the Octopus team to propose a new feature
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
