@@ -2,7 +2,7 @@
 name: New feature
 about: For the Octopus team to propose a new feature
 title: ''
-labels: size/epic, kind/feature
+labels: kind/feature, size/epic
 assignees: ''
 
 ---
