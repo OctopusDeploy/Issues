@@ -19,7 +19,12 @@ assignees: ''
 
 # The enhancement
 
+## What is the problem
+<!-- A clear and concise of the underying problem this enhancement is soving. e.g. The user can't access the fileshares used in offline drops -->
+
+## Proposed solution
 <!-- A clear and concise description of what the enhancement is. e.g. Enable Offline Drop Targets to publish the results as a deployment Artifact instead of just writing to disk. -->
+
 
 ## Mockup
 
