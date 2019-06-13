@@ -19,7 +19,7 @@ assignees: ''
 
 # The enhancement
 
-## What is the problem
+## What is the problem this solves or benefit it gives
 <!-- A clear and concise of the underying problem this enhancement is soving. e.g. The user can't access the fileshares used in offline drops -->
 
 ## Proposed solution
