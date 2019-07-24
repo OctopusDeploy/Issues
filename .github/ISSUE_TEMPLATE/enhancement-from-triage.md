@@ -13,6 +13,7 @@ assignees: ''
 # Prerequisites
 
 - [ ] I have searched [open](https://github.com/OctopusDeploy/Issues/issues) and [closed](https://github.com/OctopusDeploy/Issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed) issues to make sure it isn't already requested
+- [ ] I have discussed this in #feature-discussion or #backlog and the consensus is that this is something we plan on adding in the near future
 - [ ] I have written a descriptive issue title
 - [ ] I have linked the original source of this feature request
 - [ ] I have tagged the issue appropriately (area/*, kind/enhancement)
