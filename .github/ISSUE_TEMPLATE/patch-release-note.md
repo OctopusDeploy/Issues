@@ -1,7 +1,7 @@
 ---
 name: Patch Release Note
-about: This issue represents the fact we have shipped a bug fix in a specific LTS
-  patch
+about: This issue represents the fact we have shipped a bug fix for a previous, supported
+  release.
 title: "[Copy the title from the core issue describing this bug]"
 labels: kind/LTS-patch-release-note
 assignees: ''
