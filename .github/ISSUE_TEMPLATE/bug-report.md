@@ -1,7 +1,6 @@
 ---
-name: Bug report from triage
-about: For the Octopus team to record a bug report which has gone through triage and
-  we have committed to implementing a bug fix
+name: Bug report
+about: For the Octopus team to record a confirmed bug report
 title: ''
 labels: kind/bug
 assignees: ''
@@ -51,7 +50,7 @@ Insert your log exerpt here.
 
 <!-- Which versions of Octopus Server, or other software are affected by this problem? A range is usually helpful if you can figure it out. -->
 
-**Octopus Server:** 
+**Octopus Server:**
 
 ## Workarounds
 
