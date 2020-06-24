@@ -10,7 +10,7 @@ Different teams across Octopus use the public issues in this repository for the 
 - **Support** and **Customer Success** teams:
   - If you want someone to address an issue, you still need to bring it to the attention of the appropriate team internally, for example, via the requests channel of a Quick Reaction Force.
   - Use public issues to aid communication with customers while waiting on a possible fix. Customers can subscribe to these GitHub issues, you can use them to collate and track relevant support tickets, and publish workarounds for multiple customers in a single place.
-- **Product** teams: Product teams own the Issues list, closing anything that's unlikely to be fixed, and providing context to Support and Customer Success teams as necessary to help manage expectations.
+- **Product** teams: Product teams own the Issues list, they will close anything that's unlikely to be fixed and provide context to Support and Customer Success teams as necessary to help manage expectations.
 
 ## Which repository should I create the issue in?
 
