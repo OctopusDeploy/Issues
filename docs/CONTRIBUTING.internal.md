@@ -14,7 +14,7 @@ Different teams across Octopus use the public issues in this repository for the 
 
 ## Which repository should I create the issue in?
 
-If you want to track an Issue that doesn't deserve public attention, track it with an Issue in the [Private GitHub repository](https://github.com/OctopusDeploy/OctopusDeploy/issues). This way we won't lose track of the item, and it won't be involved in automatic release note generation.
+If you want to track an Issue that doesn't deserve public attention, you can track it with an Issue in the [Private GitHub repository](https://github.com/OctopusDeploy/OctopusDeploy/issues).
 
 This issues repository is for the core Octopus product.  Open-source extensions to Octopus have their own repositories, and issues for them should be managed there. For example, see the [TeamCity plugin](https://github.com/OctopusDeploy/Octopus-TeamCity) and [GitHub issue tracker](https://github.com/OctopusDeploy/GitHubIssueTracker) repositories.
 
