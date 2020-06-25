@@ -6,7 +6,7 @@ We use this public GitHub repository as a way to communicate with our community 
 
 Different teams across Octopus use the public issues in this repository for the following purposes:
 
-- **Engineers**: Use public issues for linking Pull Requests only. This helps with automatically release note generation.
+- **Engineers**: Use public issues for linking Pull Requests. This helps with automatic release note generation.
 - **Support** and **Customer Success** teams:
   - If you want someone to address an issue, you still need to bring it to the attention of the appropriate team internally, for example, via the requests channel of a Quick Reaction Force.
   - Use public issues to aid communication with customers while waiting on a possible fix. Customers can subscribe to these GitHub issues, you can use them to collate and track relevant support tickets, and publish workarounds for multiple customers in a single place.
@@ -20,7 +20,9 @@ This issues repository is for the core Octopus product.  Open-source extensions 
 
 ## How to raise an issue
 
-Make use of the issue templates and fill out all of the sections. The more specific details you can provide, the better. For example, providing links to the original reports for bugs (e.g. support tickets), details of how to replicate the issue, and known workarounds wherever possible will help affected customers, and help speed up a resolution. Remember, once you've created an issue, you still need to raise it with the relevant team internally.
+Make use of the issue templates and fill out all of the sections. The more specific details you can provide, the better. For example, providing links to the original reports for bugs (e.g. support tickets), details of how to replicate the issue, and known workarounds wherever possible will help affected customers, and help speed up a resolution. 
+
+Remember, once you've created an issue, you still need to raise it with the relevant team internally.
 
 ## How we use GitHub Milestones
 
