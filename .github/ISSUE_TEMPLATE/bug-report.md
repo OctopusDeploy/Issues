@@ -38,12 +38,12 @@ assignees: ''
 
 ![Screenshot](https://www.fillmurray.com/640/360)
 
-### Log exerpt
+### Log excerpt
 
 <!-- If applicable, add an excerpt from your Raw Task Log, Octopus Server Log, Tentacle Log, or build log. Make sure to remove any sensitive or personally identifiable information. -->
 
 ```
-Insert your log exerpt here.
+Insert your log excerpt here.
 ```
 
 ## Affected versions
