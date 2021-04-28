@@ -22,10 +22,12 @@ For example:
 - [Azure DevOps and TFS](https://github.com/OctopusDeploy/OctoTFS/issues)
 - [Bamboo Add-On](https://github.com/OctopusDeploy/Octopus-Bamboo/issues)
 - [GitHub Issue Tracker](https://github.com/OctopusDeploy/GitHubIssueTracker/issues)
+- [Go Client](https://github.com/OctopusDeploy/go-octopusdeploy/issues)
 - [Jenkins Plugin](https://github.com/OctopusDeploy/octopus-jenkins-plugin/issues)
 - [Jira Integration](https://github.com/OctopusDeploy/JiraIntegration/issues)
 - [Octopus CLI](https://github.com/OctopusDeploy/OctopusCLI/issues)
 - [TeamCity Plugin](https://github.com/OctopusDeploy/Octopus-TeamCity/issues)
+- [Terraform Provider](https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/issues)
 
 ## How to raise an issue
 
