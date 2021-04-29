@@ -16,7 +16,19 @@ Different teams across Octopus use the public issues in this repository for the 
 
 If you want to track an Issue that doesn't deserve public attention, you can track it with an Issue in the [Private GitHub repository](https://github.com/OctopusDeploy/OctopusDeploy/issues).
 
-This issues repository is for the core Octopus product.  Open-source extensions to Octopus have their own repositories, and issues for them should be managed there. For example, see the [TeamCity plugin](https://github.com/OctopusDeploy/Octopus-TeamCity) and [GitHub issue tracker](https://github.com/OctopusDeploy/GitHubIssueTracker) repositories.
+This issues repository is for the core Octopus product.  Open-source extensions to Octopus have their own repositories, and issues for them should be managed there. 
+
+For example:
+- [Azure DevOps and TFS](https://github.com/OctopusDeploy/OctoTFS/issues)
+- [Bamboo Add-On](https://github.com/OctopusDeploy/Octopus-Bamboo/issues)
+- [GitHub Issue Tracker](https://github.com/OctopusDeploy/GitHubIssueTracker/issues)
+- [Go Client](https://github.com/OctopusDeploy/go-octopusdeploy/issues)
+- [Jenkins Plugin](https://github.com/OctopusDeploy/octopus-jenkins-plugin/issues)
+- [Jira Integration](https://github.com/OctopusDeploy/JiraIntegration/issues)
+- [Octopus CLI](https://github.com/OctopusDeploy/OctopusCLI/issues)
+- [Octopus Client](https://github.com/OctopusDeploy/OctopusClients/issues)
+- [TeamCity Plugin](https://github.com/OctopusDeploy/Octopus-TeamCity/issues)
+- [Terraform Provider](https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/issues)
 
 ## How to raise an issue
 
@@ -26,7 +38,7 @@ Remember, once you've created an issue, you still need to raise it with the rele
 
 ## How we use GitHub Milestones
 
-We use GitHub Milestones to group Issues into a Release, not so much for planning purposes. Once an Issue is closed we add it to the Milestone representing the Release that will ship the fix for the Issue. We find all of the closed Issues in a Milestone to build Release Notes.
+We use GitHub Milestones to group Issues into a Release, not for planning purposes. Once an Issue is closed we add it to the Milestone representing the Release that will ship the fix for the Issue. We find all of the closed Issues in a Milestone to build Release Notes.
 
 ## Release Note generation
 It's important that we have good release notes with each build (we never seem to get into trouble for having too many release notes).
