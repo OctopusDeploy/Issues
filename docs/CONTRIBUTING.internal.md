@@ -26,6 +26,7 @@ For example:
 - [Jenkins Plugin](https://github.com/OctopusDeploy/octopus-jenkins-plugin/issues)
 - [Jira Integration](https://github.com/OctopusDeploy/JiraIntegration/issues)
 - [Octopus CLI](https://github.com/OctopusDeploy/OctopusCLI/issues)
+- [Octopus Client](https://github.com/OctopusDeploy/OctopusClients/issues)
 - [TeamCity Plugin](https://github.com/OctopusDeploy/Octopus-TeamCity/issues)
 - [Terraform Provider](https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/issues)
 
