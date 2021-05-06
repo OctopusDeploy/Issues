@@ -45,6 +45,6 @@ We automatically create Release Notes in markdown by querying the public GitHub 
 
 We scan the Comments of an Issue for one beginning with a specific string: `Release Note: ` (or any other defined in the source) and use that for the Release Note, otherwise, we'll use the Issue Title.
 
-## We no longer use GitHub Milestones
+## GitHub Milestones deprecated
 
 We used to create multiple issues for each bug and use GitHub Milestones to group Issues into a Release. Now that OctoNotes is smarter and Release Note generation is easier, we don't use milestones anymore, and we create a single issue per bug. 
