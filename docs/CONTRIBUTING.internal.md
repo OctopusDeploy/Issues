@@ -1,6 +1,6 @@
 # How we use GitHub Issues
 
-> Note: this page is intended for Octopus team members only. If you're an Octopus user and you've found a bug or something isn't working, please get in touch with [our support team](https://octopus.com/support) instead.
+> Note: this page is intended for **Octopus team members only**. If you're an Octopus user and you've found a bug or something isn't working, please get in touch with [our support team](https://octopus.com/support) instead.
 
 We use this public GitHub repository as a way to communicate with our community about what we are working on for the core Octopus product.
 
@@ -30,19 +30,21 @@ For example:
 - [TeamCity Plugin](https://github.com/OctopusDeploy/Octopus-TeamCity/issues)
 - [Terraform Provider](https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/issues)
 
+When in doubt, raise the issue to this repo for triage and it will be redirected if necessary. 
+
 ## How to raise an issue
 
 Make use of the issue templates and fill out all of the sections. The more specific details you can provide, the better. For example, providing links to the original reports for bugs (e.g. support tickets), details of how to replicate the issue, and known workarounds wherever possible will help affected customers, and help speed up a resolution. 
 
 Remember, once you've created an issue, you still need to raise it with the relevant team internally.
 
-## How we use GitHub Milestones
-
-We use GitHub Milestones to group Issues into a Release, not for planning purposes. Once an Issue is closed we add it to the Milestone representing the Release that will ship the fix for the Issue. We find all of the closed Issues in a Milestone to build Release Notes.
-
 ## Release Note generation
 It's important that we have good release notes with each build (we never seem to get into trouble for having too many release notes).
 
-We automatically create Release Notes in markdown by querying the public GitHub Issues that form part of a Release.
+We automatically create Release Notes in markdown by querying the public GitHub Issues linked to PRs that form part of a Release.
 
 We scan the Comments of an Issue for one beginning with a specific string: `Release Note: ` (or any other defined in the source) and use that for the Release Note, otherwise, we'll use the Issue Title.
+
+## We no longer use GitHub Milestones
+
+We used to create multiple issues for each bug and use GitHub Milestones to group Issues into a Release. Now that OctoNotes is smarter and Release Note generation is easier, we don't use milestones anymore, and we create a single issue per bug. 
