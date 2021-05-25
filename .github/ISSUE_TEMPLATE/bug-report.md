@@ -16,7 +16,7 @@ assignees: ''
 - [ ] I have written a descriptive issue title
 - [ ] I have linked the original source of this report
 - [ ] I have labelled the value stream (area/core, area/steps, ...)
-- [ ] I have tagged the issue appropriately (kind/bug, kind/enhancement, ...)
+- [ ] I have tagged the issue appropriately (kind/bug, kind/enhancement, feature/ ...)
 
 # The bug
 
