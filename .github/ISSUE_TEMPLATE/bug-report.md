@@ -15,7 +15,8 @@ assignees: ''
 - [ ] I have searched [open](https://github.com/OctopusDeploy/Issues/issues) and [closed](https://github.com/OctopusDeploy/Issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed) issues to make sure it isn't already reported
 - [ ] I have written a descriptive issue title
 - [ ] I have linked the original source of this report
-- [ ] I have tagged the issue appropriately (area/*, kind/bug, tag/regression?)
+- [ ] I have labelled the value stream (area/core, area/steps, ...)
+- [ ] I have tagged the issue appropriately (kind/bug, kind/enhancement, ...)
 
 # The bug
 
