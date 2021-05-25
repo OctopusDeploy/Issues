@@ -36,7 +36,7 @@ When in doubt, raise the issue to this repo for triage and it will be redirected
 
 Make use of the issue templates and fill out all of the sections. The more specific details you can provide, the better. For example, providing links to the original reports for bugs (e.g. support tickets), details of how to replicate the issue, and known workarounds wherever possible will help affected customers, and help speed up a resolution. 
 
-Try to add at least one label for area/, kind/ and feature/ wherever possible.
+Add a label for area/ and kind/, and a feature/ label where possible.
 
 Remember, once you've created an issue, you still need to raise it with the relevant team internally.
 
