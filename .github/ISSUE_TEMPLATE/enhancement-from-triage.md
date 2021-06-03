@@ -16,7 +16,8 @@ assignees: ''
 - [ ] I have discussed this in #feature-discussion or #backlog and the consensus is that this is something we plan on adding in the near future
 - [ ] I have written a descriptive issue title
 - [ ] I have linked the original source of this feature request
-- [ ] I have tagged the issue appropriately (area/*, kind/enhancement)
+- [ ] I have labelled the value stream (area/core, area/steps, ...)
+- [ ] I have added the kind/enhancement label
 
 # The enhancement
 
