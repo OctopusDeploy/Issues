@@ -1,0 +1,76 @@
+name: Bug Report
+description: File a bug report
+labels: [kind/bug, state/triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **_Are you a customer of Octopus Deploy? Don't raise the issue here. Please contact [our support team](https://octopus.com/support) so we can triage your issue, so that we can make sure it's handled appropriately._**
+  - type: checkboxes
+    id: team
+    attributes:
+      label: Team
+      description: Assign a `team/<team>` label to this issue so it can be dispatched to them. Use the [ownership map](https://whimsical.com/ownership-map-NzbiD4HJyvhC9jNJNfS6TG) to find the most appropriate team to assign this issue to. If you are not sure, or they are not listed, choose `team/fire-and-motion`
+      options:
+        - label: I've assigned a team label to this issue
+          required: true
+  - type: input
+    id: severity
+    attributes:
+      label: Severity
+      description: Is this blocking customers? How many instances are affected? Is there some context that will help us prioritize?
+      placeholder: Blocking a handful of customers, though the workaround is not great, it'll be fine for a couple of weeks
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version of product did you find this bug in? If you know, enter the earliest version it exists in. Which version does it not exist in?
+      placeholder: Earliest tried was 2021.1.435, not present in 2020.6.234
+    validations:
+      required: true
+  - type: dropdown
+    id: latest-version
+    attributes:
+      label: Latest Version
+      description: Attempt to reproduce this issue on the latest version.
+      options:
+        - I could reproduce the problem in the latest version
+        - The problem does not exist in the latest version
+        - I could not reproduce the problem
+        - Not applicable
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is. Also tell us, what did you expect to happen?
+      placeholder: Tell us what is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Reproduction
+      description: Enter either a link to an octopus instance exhibiting the error or the steps required to reproduce the error
+      placeholder: Steps to reproduce or link to it occuring
+    validations:
+      required: true
+  - type: textarea
+    id: stacktrace
+    attributes:
+      label: Error and Stacktrace
+      description: If you have an error message and/or stacktrace, add it here. No need to use backticks. Prefer text over a screenshot so it can be searched for.
+      render: shell
+  - type: textarea
+    id: further-information
+    attributes:
+      label: More Information
+      description: Anything else that can help us solve the problem, logs, links, screenshots, suspicions, add them here. Remember this is public so link off to internal systems if there is anything that may be confidential.
+      placeholder: Tell us more
+    validations:
+      required: false
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Workaround
+      description: If you know of any workarounds, add them here
+ 
