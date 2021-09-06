@@ -4,11 +4,14 @@
 
 We use this public GitHub repository as a way to communicate with our community about what we are working on for the core Octopus product.
 
+**See the [this flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)** and [associated handbook page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2207350851/Unplanned+Work) for an overview
+
 Different teams across Octopus use the public issues in this repository for the following purposes:
 
 - **Engineers**: Use public issues for linking Pull Requests. This helps with automatic release note generation. Most private issues go to the [ResearchAndDevelopment issue list](https://github.com/OctopusDeploy/ResearchAndDevelopment/issues).
 - **Support** and **Customer Success** teams:
-  - See the [this flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue) and [associated handbook page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2207350851/Unplanned+Work). If you want someone to address an issue, you still need to bring it to the attention of the appropriate team internally, see below.
+  - Please follow [the flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)
+  - If you want someone to address an issue, you still need to bring it to the attention of the appropriate team internally, see below.
   - Use public issues to aid communication with customers while waiting on a possible fix. Customers can subscribe to these GitHub issues, you can use them to collate and track relevant support tickets, and publish workarounds for multiple customers in a single place.
 - **Product** teams: Product teams own the Issues list, they will close anything that's unlikely to be fixed and provide context to Support and Customer Success teams as necessary to help manage expectations.
 
