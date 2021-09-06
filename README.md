@@ -7,4 +7,4 @@ Welcome! This is a public repository used to track issues, bugs and upcoming fea
 If you've encountered a problem and you need some help, please get in touch with [our support team](https://octopus.com/support). This helps us to triage issues and make sure we don't miss anything important.
 
 ## Contributing
-If you are a member of the Octopus team, see the [contribution guide](docs/CONTRIBUTING.md) for information on how we use GitHub issues in this repository.
+If you are a member of the Octopus team, see the [internal contribution guide](docs/CONTRIBUTING.internal.md.md) for information on how we use GitHub issues in this repository.
