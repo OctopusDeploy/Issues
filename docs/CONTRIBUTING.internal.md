@@ -4,7 +4,7 @@
 
 We use this public GitHub repository as a way to communicate with our community about what we are working on for the core Octopus product.
 
-**See the [this flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)** and [associated handbook page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2207350851/Unplanned+Work) for an overview
+**See the [this flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)** and [associated handbook page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2207514744/Raising+Unplanned+Work) for an overview
 
 Different teams across Octopus use the public issues in this repository for the following purposes:
 
