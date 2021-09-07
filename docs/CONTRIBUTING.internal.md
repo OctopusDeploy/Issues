@@ -67,19 +67,9 @@ Team’s may also choose to add their own labels to manage their Issues
 
 Each new Issue in a shared repository should have a `team/<team>` tag so that we know who is currently responsible for it. Use the [Ownership Map](https://whimsical.com/NzbiD4HJyvhC9jNJNfS6TG) to guide this choice.
 
-Once you've created an issue, you still need to raise it with the relevant team internally. The best place for each team is:
-- Fire and Motion [#team-fire-and-motion-requests](https://octopusdeploy.slack.com/archives/CNHBHV2BX)
-- Steps [#team-steps-requests](https://octopusdeploy.slack.com/archives/C020P7U9Z9S)
-- Integrations [#team-integrations-requests](https://octopusdeploy.slack.com/archives/C02A2SJ1ZFA), also see [how this team handles requests](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2204237834/Quick+Reaction+Force)
-- Config as Code [#topic-config-as-code](https://octopusdeploy.slack.com/archives/C01AJE4K3T2)
-- Core Platform [#team-core-platform](https://app.slack.com/client/T02G7QA31/C01HZFJRYSH)
-- Build and Delivery [#team-build-and-delivery](https://octopusdeploy.slack.com/archives/C027RM4VC2C)
-- Commercial Platform [#commercial-platform](https://octopusdeploy.slack.com/archives/C06FUR5HN)
-
+When an issue is tagged with `state/triage` (existing or new issue), a message will be posted to the team's channel notifying them of the Issue.
 
 If in doubt, contact the Fire and Motion team. For more details on each team, see their [team page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/1817084067/Teams)
-
-_Future: We will automate this_
 
 ## Transferring to a different Repo
 Use GitHub’s [Transfer Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) feature. If transferring from private to public repo, make sure you have scrubbed confidential information (e.g. customer names).
