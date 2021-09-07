@@ -2,7 +2,7 @@
 name: New feature
 about: For the Octopus team to propose a new feature
 title: ''
-labels: size/epic
+labels: size/epic, state/triage
 assignees: ''
 
 ---
