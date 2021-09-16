@@ -32,10 +32,10 @@ body:
     id: latest-version
     attributes:
       label: Latest Version
-      description: Attempt to reproduce this issue on the latest version.
+      description: Attempt to reproduce this issue on the latest build from master.
       options:
-        - I could reproduce the problem in the latest version
-        - The problem does not exist in the latest version
+        - I could reproduce the problem in the latest build
+        - The problem does not exist in the latest build
         - I could not reproduce the problem
         - Not applicable
   - type: textarea
