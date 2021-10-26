@@ -18,6 +18,7 @@ assignees: ''
 - [ ] I have linked the original source of this feature request
 - [ ] I have labelled the value stream (area/core, area/steps, ...)
 - [ ] I have added the kind/enhancement label
+- [ ] I have added the tag/breaking-change label if this commit makes a breaking change to previous functionality
 
 # The enhancement
 
