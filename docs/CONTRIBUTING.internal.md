@@ -54,7 +54,7 @@ The following conventions are in use across our repositories
 
 - `team/<team>` - The team that is currently responsible for the Issue in a shared repository
 - `state/triage` - New issues that have not yet been triaged by the team
-- `priority/p1` and `priority/p2` - P1 and P2 issues, which are the most severe
+- `p1` and `p2` - Priorty labels for P1 and P2 issues, which are the most severe
 - `kind/bug` - Bugs, defects, etc
 - `kind/feature` - Features, additions, improvements and enhancements
 - `closed/wontfix` - It’s a problem, but we don’t intend to fix it due to constraints
@@ -81,7 +81,3 @@ It's important that we have good release notes with each build (we never seem to
 We automatically create Release Notes in markdown by querying the public GitHub Issues linked to PRs that form part of a Release.
 
 We scan the Comments of an Issue for one beginning with a specific string: `Release Note: ` (or any other defined in the source) and use that for the Release Note, otherwise, we'll use the Issue Title.
-
-## GitHub Milestones deprecated
-
-We used to create multiple issues for each bug and use GitHub Milestones to group Issues into a Release. Now that OctoNotes is smarter and Release Note generation is easier, we don't use milestones anymore, and we create a single issue per bug. 
