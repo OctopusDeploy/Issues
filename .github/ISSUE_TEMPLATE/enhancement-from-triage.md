@@ -12,7 +12,7 @@ assignees: ''
 # Prerequisites
 
 - [ ] I have searched [open](https://github.com/OctopusDeploy/Issues/issues) and [closed](https://github.com/OctopusDeploy/Issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed) issues to make sure it isn't already requested
-- [ ] My team is started working on this issue
+- [ ] My team has started working on this issue
 - [ ] I have written a descriptive issue title
 
 # The enhancement
