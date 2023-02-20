@@ -1,19 +1,11 @@
 name: Bug Report
 description: File a bug report
-labels: [kind/bug, state/triage]
+labels: [kind/bug]
 body:
   - type: markdown
     attributes:
       value: |
         **_Are you a customer of Octopus Deploy? Don't raise the issue here. Please contact [our support team](https://octopus.com/support) so we can triage your issue, so that we can make sure it's handled appropriately._**
-  - type: checkboxes
-    id: team
-    attributes:
-      label: Team
-      description: Assign a `team/<team>` label to this issue so it can be dispatched to them. Use the [ownership map](https://whimsical.com/ownership-map-NzbiD4HJyvhC9jNJNfS6TG) to find the most appropriate team to assign this issue to. If you are not sure, or they are not listed, choose `team/fire-and-motion`
-      options:
-        - label: I've assigned a team label to this issue
-          required: true
   - type: input
     id: severity
     attributes:
