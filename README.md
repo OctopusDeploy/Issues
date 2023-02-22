@@ -1,6 +1,6 @@
 # Octopus Deploy Issues
 
-Welcome! This is a public repository used to track known issues of [Octopus Deploy](https://octopus.com).
+Welcome! This is a public repository used to track known and resolved issues as well as completed enhancements for [Octopus Deploy](https://octopus.com).
 
 **Having issues with Octopus Deploy?** Our [support forum](https://help.octopus.com/) is the best place to ask questions or report problems using Octopus Deploy. For specific issues, you can contact [our support team](support@octopus.com).
 
