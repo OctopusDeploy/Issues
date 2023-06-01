@@ -2,16 +2,19 @@
 
 > Note: this page is intended for **Octopus team members only**. If you're an Octopus user and you've found a bug or something isn't working, please get in touch with [our support team](https://octopus.com/support) instead.
 
-We use this public GitHub repository as a way to communicate with our community about what we are working on for the core Octopus product.
+Internally, we use shortcut to track, label and triage all work and requests that flow through the R&D single front door. See [How we use shortcut](https://octopushq.atlassian.net/l/cp/rHgRH200)
+This public Github repository is our way to communicate with our community about what we are working on for the core Octopus product. Ideally, for all fixes made on Octopus Server, there should be a corresponding issue.
 
-**See the [this flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)** and [associated handbook page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2207514744/Raising+Unplanned+Work) for an overview
+When raising a github issue, be sure to also notify the R&D team through the single front door to ensure the appropriate action can be taken.
+
+**See the [R&D Request Process flowchart](https://whimsical.com/r-and-d-request-process-5QHDgBDPSpszuBk4MdmhhM)** and [R&D Single Front Door](https://octopushq.atlassian.net/l/cp/eqs6uxfZ) for an overview
 
 Different teams across Octopus use the public issues in this repository for the following purposes:
 
 - **Engineers**: Use public issues for linking Pull Requests. This helps with automatic release note generation. Most private issues go to the [ResearchAndDevelopment issue list](https://github.com/OctopusDeploy/ResearchAndDevelopment/issues).
 - **Support** and **Customer Success** teams:
-  - Please follow [the flowchart](https://whimsical.com/r-d-incoming-work-workflow-aug-21-NsDnGQXcwBLwU66a88Zhue)
-  - If you want someone to address an issue, you still need to bring it to the attention of the appropriate team internally, see below.
+  - Please follow the [R&D Request Process flowchart](https://whimsical.com/r-and-d-request-process-5QHDgBDPSpszuBk4MdmhhM)
+  - If you want someone to address an issue, contact the appropriate channel as outlined in the flowchart. If in doubt, contact #rnd-requests. See [Types of Requests](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2639954003/R+D+Single+Front+Door#Types-of-Requests)
   - Use public issues to aid communication with customers while waiting on a possible fix. Customers can subscribe to these GitHub issues, you can use them to collate and track relevant support tickets, and publish workarounds for multiple customers in a single place.
 - **Product** teams: Product teams own the Issues list, they will close anything that's unlikely to be fixed and provide context to Support and Customer Success teams as necessary to help manage expectations.
 
@@ -66,8 +69,6 @@ Team’s may also choose to add their own labels to manage their Issues
 ### Team Assignment
 
 Each new Issue in a shared repository should have a `team/<team>` tag so that we know who is currently responsible for it. Use the [Ownership Map](https://whimsical.com/NzbiD4HJyvhC9jNJNfS6TG) to guide this choice.
-
-When an issue is tagged with `state/triage` (existing or new issue), a message will be posted to the team's channel notifying them of the Issue.
 
 If in doubt, contact the Fire and Motion team. For more details on each team, see their [team page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/1817084067/Teams)
 
