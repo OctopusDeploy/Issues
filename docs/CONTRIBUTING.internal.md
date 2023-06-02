@@ -53,22 +53,11 @@ Make use of the issue templates and fill out all of the sections. The more speci
 
 ### Labels
 
-The following conventions are in use across our repositories
-
-- `team/<team>` - The team that is currently responsible for the Issue in a shared repository
-- `state/triage` - New issues that have not yet been triaged by the team
-- `p1` and `p2` - Priorty labels for P1 and P2 issues, which are the most severe
-- `kind/bug` - Bugs, defects, etc
-- `kind/feature` - Features, additions, improvements and enhancements
-- `closed/wontfix` - It’s a problem, but we don’t intend to fix it due to constraints
-- `closed/duplicate` - This was the same as another issue
-- `closed/invalid` - Could not reproduce, or was deemed to not be a problem
-
-Team’s may also choose to add their own labels to manage their Issues
+Refer to shortcut tickets as the source of truth for labels.
 
 ### Team Assignment
 
-Each new Issue in a shared repository should have a `team/<team>` tag so that we know who is currently responsible for it. Use the [Ownership Map](https://whimsical.com/NzbiD4HJyvhC9jNJNfS6TG) to guide this choice.
+Please refer to the connected shortcut ticket to see team ownership. The [R&D Single Front Door](https://octopushq.atlassian.net/l/cp/eqs6uxfZ) and [Ownership Map](https://whimsical.com/NzbiD4HJyvhC9jNJNfS6TG) is used to guide this choice.
 
 If in doubt, contact the Fire and Motion team. For more details on each team, see their [team page](https://octopushq.atlassian.net/wiki/spaces/RND/pages/1817084067/Teams)
 
