@@ -1,10 +1,6 @@
 ---
 name: Deprecation
 about: For the Octopus team to make customers aware of upcoming deprecations.
-title: ''
-labels: tag/breaking-change
-assignees: ''
-
 ---
 
 **_Are you a customer of Octopus Deploy? Please contact [our support team](https://octopus.com/support) if you have any questions regarding an upcoming deprecation.**
@@ -17,6 +13,11 @@ assignees: ''
 # Description
 
 <!-- Take the time to describe the deprecation and link to the public deprecation schedule if necessary -->
+
+# Process
+- The functionality will be marked as deprecated in code, causing any usages to be logged for monitoring purposes
+- After the notification period of at least 6 months the functionality will be toggled off, resulting in an error when attempting to use it. Customers can toggle this back on if they still require it.
+- After another 12 months the functionality will be completely removed
 
 # Migration Guide
 
