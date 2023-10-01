@@ -3,7 +3,7 @@
 > Note: this page is intended for **Octopus team members only**. If you're an Octopus user and you've found a bug or something isn't working, please get in touch with [our support team](https://octopus.com/support) instead.
 
 Internally, we use shortcut to track, label and triage all work and requests that flow through the R&D single front door. See [How we use shortcut](https://octopushq.atlassian.net/l/cp/rHgRH200)
-This public Github repository is our way to communicate with our community about what we are working on for the core Octopus product. Ideally, for all fixes made on Octopus Server, there should be a corresponding issue.
+This public GitHub repository is our way to communicate with our community about what we are working on for the core Octopus product. Ideally, for all fixes made on Octopus Server, there should be a corresponding issue.
 
 When raising a github issue, be sure to also notify the R&D team through the single front door to ensure the appropriate action can be taken.
 
