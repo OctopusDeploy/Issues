@@ -43,7 +43,7 @@ body:
     attributes:
       label: Reproduction
       description: Enter either a link to an octopus instance exhibiting the error or the steps required to reproduce the error
-      placeholder: Steps to reproduce or link to it occuring
+      placeholder: Steps to reproduce or link to it occurring
     validations:
       required: true
   - type: textarea
