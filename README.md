@@ -2,7 +2,7 @@
 
 Welcome. This is a public repository that tracks known and resolved issues and enhancements for [Octopus Deploy](https://octopus.com).
 
-**Need help with Octopus Deploy?** You can ask questions in our [Community Slack](https://octopus.com/slack). If you have a paid license, you can [email our support team](mailto:support@octopus.com).
+**Need help with Octopus Deploy?** You can ask questions in our [Community Slack](https://octopus.com/slack), or you can [email our support team](mailto:support@octopus.com).
 
 **Encountered a potential security vulnerability?** Our [security disclosure policy](https://octopus.com/security/disclosure) has instructions on how to report it.
 
